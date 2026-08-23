@@ -46,11 +46,25 @@ XXD Panel 017 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **مركز بصري واحد:** يبني اختلاف الحجم والإزاحة والحجب والقص الخفيف والفراغ واللاتماثل إيقاعاً خفيفاً.
 - **كتابة داخل الرسم:** يتبع عنوان قصير ونص دقيق المحيط أو حافة اللون أو الفراغ أو محور الصورة.
 
-## النماذج · قريباً
+## النماذج · من X
 
-يحتفظ المستودع بمجلد [`assets/examples/`](assets/examples/) للأعمال القادمة. لن يُضاف إلا عمل مكتمل بأسلوب 017 ومؤكد من صاحب المشروع؛ ولن تُستخدم منشورات أو صور من أساليب أخرى كعناصر مؤقتة.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
 
-ستعرض النماذج القادمة قدرة 017 على التكيف فقط، ولن تصبح موضوعاتها أو استعاراتها أو ألوانها أو نصوصها أو نسبها مراجع للتوليد أو قيماً افتراضية.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 017 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات ومنطق كوري مسطح واحد
 

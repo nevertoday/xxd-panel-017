@@ -44,11 +44,25 @@ XXD Panel 017은 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **하나의 시각 중심:** 크기 차이, 어긋남, 가림, 가벼운 크롭, 밝은 색면, 여백, 불완전한 비대칭으로 리듬을 만듭니다.
 - **그림에 속한 글자:** 짧은 제목과 소량의 작은 글자를 윤곽, 색면 경계, 여백, 축에 배치합니다.
 
-## 예시 · 곧 추가됩니다
+## 예시 · X에서
 
-저장소에는 향후 예시를 위한 [`assets/examples/`](assets/examples/) 폴더가 마련되어 있습니다. 프로젝트 작성자가 확인한 017 완성작만 추가하며, 그전에는 다른 스타일의 게시물이나 이미지를 자리표시자로 쓰지 않습니다.
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
 
-향후 예시는 017의 적용 범위만 보여 줍니다. 예시의 주제, 형태, 팔레트, 문구, 화면 비율은 생성 참조나 기본값이 되지 않습니다.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 017의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 네 가지 출력, 하나의 한국식 플랫 논리
 

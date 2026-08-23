@@ -44,11 +44,25 @@ If an unrelated photograph could replace the source without materially changing 
 - **One visual centre:** scale, offset, occlusion, light crop, bright fields, whitespace, and imperfect asymmetry create a lively rhythm.
 - **Illustrated type:** one short title and a few micro-notes follow contour, colour edge, whitespace, or axis, with restrained rotation, offset, split, or interlock.
 
-## Samples · Coming soon
+## Samples · From X
 
-The repository reserves [`assets/examples/`](assets/examples/) for future work. Only finished 017 artwork verified by the project owner will be added; no post or image from another style is used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
 
-Future samples will demonstrate 017's adaptability. Their subjects, metaphors, palette, copy, and canvas ratios will never become generation references or defaults.
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 017 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four outputs, one Korean flat logic
 
