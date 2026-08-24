@@ -1,8 +1,15 @@
 # XXD Panel 017 | Naive Korean Flat Editorial Illustration Core
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Treat the one photograph explicitly supplied for the current task as the only content source. Never borrow subjects, composition, palette, copy, or narrative from samples, other photographs, or past outputs.
 
-Generate only the resolved **transformed design frame**: lower in top-bottom mode, right in left-right mode, and full-canvas in design-only and every wallpaper. Never render another photo panel, seam, frame, device mockup, or reserved photographic area inside that design frame.
 
 ## 0. Immutable aesthetic motive
 
@@ -80,7 +87,7 @@ Never render type in the photographic panel. In text-free mode render no letter,
 
 The caller appends the already resolved current mode, exact dimensions, source visibility, and locked copy. Execute only those values; never choose a mode yourself.
 
-- Paired outputs generate only the transformed frame; the faithful photo panel is prepared and composed externally.
+- Paired outputs default to one complete-canvas generation with the source as a high-fidelity reference; external composition is fallback-only.
 - Design-only and wallpapers contain no source photograph, seam, or photographic reserve.
 - Recompose forms, colour areas, whitespace, and type for every device aspect. Keep system-UI zones low-information; render no clock, icons, dock, controls, or device frame.
 - A linked wallpaper uses the original photo to lock identity and content. The anchor locks only rounded-form grammar, rough broken outline, flat-fill discipline, colour-area relations, whitespace, asymmetry, and type character. Never crop the anchor or chain derivatives.
@@ -95,4 +102,3 @@ The caller appends the already resolved current mode, exact dimensions, source v
 6. Copy is accurate and native to the target locale, and type belongs to the illustration rather than appearing pasted on.
 7. Current mode, dimensions, source visibility, wallpaper safety, and copy settings all follow the appended block.
 8. The image contains no overview collage, logo, watermark, UI, mockup, commercial sticker, dense scene, second focal point, or unrelated decoration.
-
