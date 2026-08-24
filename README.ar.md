@@ -24,6 +24,26 @@ XXD Panel 017 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 
 ينشأ مركز بصري واحد من اختلاف الحجم، والإزاحة، والحجب، والقص الخفيف، والكتل اللونية المشرقة، والفراغ، واللاتماثل غير الكامل. تتبع الكتابة محيط العنصر أو حافة اللون أو الفراغ أو محور الصورة، فتغدو جزءاً من بنية الرسم لا عنواناً إعلانياً مضافاً لاحقاً.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 نموذج 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 نموذج 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 نموذج 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 017 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد 017؟
 
 يتحوّل «الرسم المسطّح للأطفال» بسهولة إلى شخصيات لطيفة عامة، وملصقات تجارية، ولوحة ألوان ثابتة، أو مشهد قالب يصلح لأي صورة.
@@ -45,26 +65,6 @@ XXD Panel 017 مهارة لتوليد الصور مخصّصة لـ Codex وال�
 - **لوحة مشرقة من المصدر:** تتحول أكثر ألوان الصورة حياةً إلى عدد محدود من المساحات عالية الإضاءة والنقاء، من دون بطاقة ألوان ثابتة.
 - **مركز بصري واحد:** يبني اختلاف الحجم والإزاحة والحجب والقص الخفيف والفراغ واللاتماثل إيقاعاً خفيفاً.
 - **كتابة داخل الرسم:** يتبع عنوان قصير ونص دقيق المحيط أو حافة اللون أو الفراغ أو محور الصورة.
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
-> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 نموذج 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 نموذج 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 نموذج 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 017 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

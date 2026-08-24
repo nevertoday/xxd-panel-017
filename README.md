@@ -22,6 +22,26 @@ XXD Panel 017 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 一个明确视觉中心由大小差、错位、遮挡、轻裁切、大面积明亮色块、留白与不完全对称共同建立。文字沿主体轮廓、色块边缘、留白或画面轴线进入插画，成为画面结构，而不是后来贴上的广告标题。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 017 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 017
 
 普通“扁平儿童插画”很容易退化成通用可爱角色、商业贴纸、固定色卡或与任何照片都能互换的模板场景。
@@ -43,26 +63,6 @@ XXD Panel 017 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **明亮源图色盘：** 从照片提取最有生命力的颜色，收敛为高明度、高纯度、数量有限的色块，不套固定蓝红黄绿卡。
 - **一个视觉中心：** 大小差、错位、遮挡、轻裁切、大色场、留白与不完全对称建立轻快节奏。
 - **插画内文字：** 一个短标题与少量小字沿轮廓、色块边缘、留白或轴线排列，可轻微旋转、错位、拆分或穿插。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
-> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 017 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

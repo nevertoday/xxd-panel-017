@@ -22,6 +22,26 @@ XXD Panel 017은 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 크기 차이, 어긋남, 가림, 가벼운 크롭, 넓은 밝은 색면, 여백, 완벽하지 않은 비대칭으로 하나의 분명한 시각 중심을 만듭니다. 글자는 윤곽, 색면 경계, 여백, 화면 축을 따라 들어가며 나중에 붙인 광고 제목이 아니라 그림의 구조가 됩니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 017의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 왜 017이 필요한가요
 
 일반적인 ‘플랫 아동 일러스트’는 흔한 귀여운 캐릭터, 상업용 스티커, 고정 팔레트, 어떤 사진에도 바꿔 넣을 수 있는 템플릿 장면으로 쉽게 무너집니다.
@@ -43,26 +63,6 @@ XXD Panel 017은 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **밝은 원본 기반 팔레트:** 사진의 가장 생기 있는 색을 고명도·고순도·제한된 색면으로 바꾸며 고정 색상표를 쓰지 않습니다.
 - **하나의 시각 중심:** 크기 차이, 어긋남, 가림, 가벼운 크롭, 밝은 색면, 여백, 불완전한 비대칭으로 리듬을 만듭니다.
 - **그림에 속한 글자:** 짧은 제목과 소량의 작은 글자를 윤곽, 색면 경계, 여백, 축에 배치합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
-> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 017의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

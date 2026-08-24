@@ -22,6 +22,26 @@ XXD Panel 017 は、Codex と互換 Agent のための画像生成 Skill です�
 
 大きさの差、ずれ、重なり、軽い裁ち落とし、明るい大色面、余白、不完全な非対称によって、明確な視覚中心を一つ作ります。文字は輪郭、色面の端、余白、画面軸に沿って入り、後付けの広告見出しではなく絵の構造として働きます。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 017 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
 ## なぜ 017 が必要なのか
 
 一般的な「フラットな子ども向け絵」は、汎用の可愛いキャラクター、商業ステッカー、固定配色、どの写真にも交換できるテンプレート場面へ崩れがちです。
@@ -43,26 +63,6 @@ XXD Panel 017 は、Codex と互換 Agent のための画像生成 Skill です�
 - **明るい元写真由来色：** 最も生命感のある色を、高明度・高純度・少数の色面へ変換し、固定色カードは使いません。
 - **一つの視覚中心：** 大小差、ずれ、遮蔽、軽い裁ち落とし、明るい色面、余白、不完全な非対称でリズムを作ります。
 - **絵に属する文字：** 短いタイトルと少量の小文字を輪郭、色面の端、余白、軸へ配置します。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
-> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 017 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 017 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 017 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 017 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
