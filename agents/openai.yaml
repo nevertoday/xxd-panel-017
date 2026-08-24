@@ -1,4 +1,4 @@
 interface:
   display_name: "/xxd-panel-017"
-  short_description: "Create naive Korean flat editorials."
-  default_prompt: "Use $xxd-panel-017 to reinterpret my photo as a recognisable naive Korean flat editorial illustration with preserved layout and action, rounded forms, rough broken black outlines, pure bright source-derived fills, playful asymmetry, and integrated native-script type; ask first for modes and copy or locale preferences."
+  short_description: "Create Panel 017 from its original style brief."
+  default_prompt: "Use $xxd-panel-017; treat its bundled original style brief as the sole aesthetic authority, and ask only for unresolved mode, size, text mode, locale, or wallpaper settings."
