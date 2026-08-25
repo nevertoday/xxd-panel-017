@@ -16,16 +16,7 @@
 
 </div>
 
-> ROUNDED FORM · ROUGH BROKEN LINE · PURE FLAT FILL · BRIGHT FIELDS · LIVELY ASYMMETRY
-
-XXD Panel 017 is an image-generation Skill for Codex and compatible agents. It preserves approximate source layout, object relations, core action, and at least three identity cues, then rebuilds them through rounded, slightly exaggerated forms, rough jittery locally broken black outlines, and high-value, high-purity flat fills.
-
-One visual centre emerges through scale difference, offset, occlusion, light crop, large bright colour fields, whitespace, and imperfect asymmetry. Type follows contour, colour-block edge, whitespace, or picture axis as part of the illustration rather than an advertising headline pasted on later.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
-> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
 
 <table>
   <tr>
@@ -38,9 +29,18 @@ One visual centre emerges through scale difference, offset, occlusion, light cro
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
+> GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 017 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> ROUNDED FORM · ROUGH BROKEN LINE · PURE FLAT FILL · BRIGHT FIELDS · LIVELY ASYMMETRY
+
+XXD Panel 017 is an image-generation Skill for Codex and compatible agents. It preserves approximate source layout, object relations, core action, and at least three identity cues, then rebuilds them through rounded, slightly exaggerated forms, rough jittery locally broken black outlines, and high-value, high-purity flat fills.
+
+One visual centre emerges through scale difference, offset, occlusion, light crop, large bright colour fields, whitespace, and imperfect asymmetry. Type follows contour, colour-block edge, whitespace, or picture axis as part of the illustration rather than an advertising headline pasted on later.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 017 right for you?
