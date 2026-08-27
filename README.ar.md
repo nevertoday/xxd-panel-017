@@ -50,16 +50,16 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2090134963203223908"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 017 نموذج 4"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 017 نموذج 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 017 نموذج 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 017 نموذج 6"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 017 نموذج 6"></td>
-    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 017 نموذج 7"></td>
-    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 017 نموذج 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 017 نموذج 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 017 نموذج 8"></td>
   </tr>
 </table>
 
-> نموذج إضافي: تم اختيار صورة واحدة عشوائياً من مجموعة ملصقات تشن شيانغ، ثم إنشاء تكوين 16:9 يسار-يمين وفق الموجز الأصلي لهذه المهارة مع نص إنجليزي يولّده النموذج منطقياً.
+> نموذج إضافي: تم استخدام الصور الأربع من مجموعة ملصقات تشن شيانغ المطابقة بترتيب أسماء الملفات، ثم إنشاء تكوين 16:9 يسار-يمين وفق الموجز الأصلي لهذه المهارة مع نص إنجليزي يولّده النموذج منطقياً.
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2090134963203223908) · 2026-08-19<br>
 > GPT2 x 童趣 x 插画 x 笨拙 x 美学提示词 x VOL.017
