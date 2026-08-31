@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 017
+# 🦁 XXD Panel 017｜Childlike Graphic Journal
 
 ### Translate a photograph into bright, friendly Korean flat editorial illustration
 

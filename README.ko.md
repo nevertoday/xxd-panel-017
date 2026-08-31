@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 017
+# 🦁 XXD Panel 017｜천진 그래픽 저널
 
 ### 사진을 밝고 친근한 한국식 소박한 플랫 편집 일러스트로
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 017
+# 🦁 XXD Panel 017｜稚趣平面志
 
 ### 把照片转译成明快、亲切、粗线纯色的韩式稚拙编辑插画
 
