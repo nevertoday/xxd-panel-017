@@ -86,6 +86,15 @@ You do not need to review every option first. Send your Agent an image and say:
 The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -102,28 +111,6 @@ The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remain
 | **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
 | **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
 <!-- xxd-panel-benefit:end -->
-
-## How it turns your source into a distinctive result
-
-“Flat children's illustration” easily collapses into generic cute characters, commercial stickers, fixed palettes, or template scenes that could accompany any photograph.
-
-017 reverses that logic:
-
-```text
-lock layout / relations / action / three identity cues → simplify into rounded slightly exaggerated forms → draw rough jittery locally broken black outlines → use high-value high-purity flat fills → build one centre through scale / offset / occlusion / crop / whitespace → integrate title and microcopy into contour / colour edge / axis
-```
-
-If an unrelated photograph could replace the source without materially changing layout, relations, action, form, colour areas, or copy, the result is not 017.
-
-## What makes the finished style recognizable
-
-- **Source identity:** preserve approximate layout, object relations, core action, and at least three specific cues; never replace the subject with a generic cute character.
-- **Rounded simplification:** forms are simple and slightly exaggerated, with realistic light, perspective, and material detail removed while recognition remains immediate.
-- **Rough broken outline:** black contours jitter, vary slightly, and break locally; no smooth vector edge or uniform comic inking.
-- **Pure flat fill:** use clean opaque colour and express depth only through flat overlap, scale, and placement.
-- **Bright source palette:** translate the photograph's most spirited colours into a limited high-value, high-purity set rather than a fixed blue-red-yellow-green card.
-- **One visual centre:** scale, offset, occlusion, light crop, bright fields, whitespace, and imperfect asymmetry create a lively rhythm.
-- **Illustrated type:** one short title and a few micro-notes follow contour, colour edge, whitespace, or axis, with restrained rotation, offset, split, or interlock.
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
