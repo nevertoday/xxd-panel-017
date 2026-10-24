@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-017
-description: "Create XXD Panel 017 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-017 or requests the exact Panel 017 style."
+description: "XXD Panel 017｜Childlike Graphic Journal: translates a photo into a bright, friendly Korean-style flat editorial illustration: the rough layout, relationships and main action stay, but realistic light, perspective and texture are dropped, and the subject becomes rounded, simple, slightly exaggerated shapes with rough, wobbly, partly broken black hand-drawn outlines and solid flat colour, one clear focal point arranged with size contrast, offsets and slight asymmetry, large areas of bright solid colour and whitespace, a limited high-key palette from the photo with no gradients or shadows, and a hand-lettered, slightly tilted title with a few small playful notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-017 or asks for Korean flat editorial illustration, naive bold-outline flat colour art or bright picture-book style from a photo."
 ---
 
 # XXD Panel 017

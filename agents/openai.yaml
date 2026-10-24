@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-017"
-  short_description: "Create Panel 017 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-017; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "稚趣平面志：把照片画成粗糙黑线加明亮纯色平涂的韩式稚拙编辑插画"
+  default_prompt: "Use $xxd-panel-017 to turn my photo into Childlike Graphic Journal artwork."
 
 policy:
   allow_implicit_invocation: true

@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 017｜Childlike Graphic Journal: translates a photo into a bright, friendly Korean-style flat editorial illustration: the rough layout, relationships and main action stay, but realistic light, perspective and texture are dropped, and the subject becomes rounded, simple, slightly exaggerated shapes with rough, wobbly, partly broken black hand-drawn outlines and solid flat colour, one clear focal point arranged with size contrast, offsets and slight asymmetry, large areas of bright solid colour and whitespace, a limited high-key palette from the photo with no gradients or shadows, and a hand-lettered, slightly tilted title with a few small playful notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-017 or asks for Korean flat editorial illustration, naive bold-outline flat colour art or bright picture-book style from a photo.",
+  "short_description": "稚趣平面志：把照片画成粗糙黑线加明亮纯色平涂的韩式稚拙编辑插画",
+  "zh-CN": {
+    "name": "稚趣平面志",
+    "tagline": "把照片画成粗糙黑线描边、明亮纯色平涂的韩式稚拙编辑插画。",
+    "look": "原图的大致布局、物体关系和核心动作都保留，但去掉写实光影、透视和材质，主体变成圆润、简单、略带夸张的几何形，用粗糙抖动、局部断开的黑色手绘轮廓包住纯色平涂。画面只有一个明确中心，其余物体做陪衬，靠大小差、错位、遮挡、轻微裁切和不完全对称排出轻快节奏，背景是大块明亮纯色和留白。颜色从照片里挑最有生气的几种，转成高明度、高纯度、数量有限的色块，比如亮蓝、红、黄、绿、白，没有渐变和阴影。标题是略带手写、粗细不均或轻微歪斜的字，旁边配几行清楚的小字或俏皮注释。",
+    "traits": [
+      "圆润形体",
+      "粗糙断线",
+      "纯色平涂",
+      "明亮色场",
+      "不对称"
+    ],
+    "good": [
+      "有几样东西和一个动作的日常场景：野餐、举着气球的孩子、沙发上的狗",
+      "形状好认的食物和小物：一盘水果、一杯冰淇淋、一个红色邮筒",
+      "想做成儿童绘本页、头像或轻松社交配图的照片"
+    ],
+    "poor": [
+      "想要柔和低饱和、莫兰迪或安静文艺色调的需求",
+      "气氛靠光影和质感撑起来的照片：夜景、逆光、雾景",
+      "需要写实细节、3D 质感或复杂场景的图"
+    ]
+  },
+  "en": {
+    "name": "Childlike Graphic Journal",
+    "tagline": "Turns a photo into a bright Korean-style flat editorial illustration with rough black outlines and solid colour.",
+    "look": "The rough layout, relationships and main action of your photo stay, but realistic light, perspective and texture are dropped: the subject becomes rounded, simple, slightly exaggerated shapes with rough, wobbly, partly broken black hand-drawn outlines around solid flat colour. There is one clear focal point with other objects in support, arranged through size contrast, offsets, overlaps, slight cropping and imperfect symmetry, on large blocks of bright solid colour and whitespace. A few of the liveliest colours from the photo become a limited set of high-key, saturated flats such as bright blue, red, yellow, green and white, with no gradients or shadows. The title is hand-lettered, uneven or slightly tilted, with a few small clear words or playful notes beside it.",
+    "traits": [
+      "Rounded shapes",
+      "Rough broken line",
+      "Solid flat colour",
+      "Bright colour fields",
+      "Asymmetry"
+    ],
+    "good": [
+      "Everyday scenes with a few objects and one action: a picnic, a child holding a balloon, a dog on a sofa",
+      "Food and small things with an easy shape: a plate of fruit, an ice cream, a red postbox",
+      "Photos you want as a picture-book page, an avatar or a light social post"
+    ],
+    "poor": [
+      "Requests for soft, muted, Morandi-like or quiet literary tones",
+      "Photos whose mood depends on light and texture: night scenes, backlight, fog",
+      "Images that need realistic detail, 3D or complex scenes"
+    ]
+  },
+  "ja": {
+    "name": "無邪気グラフィック手帳",
+    "tagline": "写真を、ざらついた黒い線と明るいベタ塗りの、韓国風の素朴な雑誌イラストにします。",
+    "look": "元の写真のおおまかな配置、モノどうしの関係、中心となる動きは残しますが、写実的な光と影、遠近、質感は取り除き、主役を丸くシンプルで少し誇張した幾何学的な形にして、ざらざらと揺れ、ところどころ途切れる黒い手描きの輪郭でベタ塗りの色を囲みます。はっきりした中心は一つだけで、ほかは脇役として、大きさの差、ずれ、重なり、軽い切り取り、不完全な対称で軽快なリズムをつくり、背景は大きな明るい単色の面と余白です。色は写真からいちばん生き生きした数色を選び、明るく鮮やかな限られた色面にします。たとえば明るい青、赤、黄、緑、白で、グラデーションや影はありません。タイトルは少し手書き風で、太さが不揃いだったり少し傾いたりした文字で、そばにはっきりした小さな文字や遊び心のある注記を数行添えます。",
+    "traits": [
+      "丸みのある形",
+      "ざらついた途切れ線",
+      "ベタ塗り",
+      "明るい色面",
+      "非対称"
+    ],
+    "good": [
+      "モノがいくつかと一つの動きがある日常の場面：ピクニック、風船を持つ子ども、ソファの上の犬",
+      "形のわかりやすい食べ物や小物：果物の皿、アイスクリーム、赤いポスト",
+      "絵本の一ページ、アイコン、気軽な SNS 用の画像にしたい写真"
+    ],
+    "poor": [
+      "やわらかく低彩度な色、モランディ調、静かな文芸的な色合いを求める場合",
+      "光と質感で雰囲気が成り立っている写真：夜景、逆光、霧",
+      "写実的な細部、3D の質感、複雑な場面が必要な画像"
+    ]
+  },
+  "ko": {
+    "name": "천진 그래픽 저널",
+    "tagline": "사진을 거친 검은 선과 밝은 단색 면으로 그린 한국식 천진한 편집 일러스트로 바꿉니다.",
+    "look": "원본의 대략적인 배치, 사물 사이의 관계, 핵심 동작은 남기되 사실적인 빛과 그림자, 원근, 재질은 걷어 냅니다. 주인공은 둥글고 단순하며 살짝 과장된 기하 형태가 되고, 거칠게 흔들리고 군데군데 끊긴 검은 손그림 윤곽이 단색 면을 감쌉니다. 분명한 중심은 하나뿐이고 나머지는 조연으로, 크기 차이, 어긋남, 겹침, 약간의 잘림, 완전하지 않은 대칭으로 경쾌한 리듬을 만들며, 배경은 넓은 밝은 단색 면과 여백입니다. 색은 사진에서 가장 생기 있는 몇 가지를 골라 밝고 채도 높은 한정된 색면으로 바꿉니다. 밝은 파랑, 빨강, 노랑, 초록, 흰색 같은 색이며 그라데이션과 그림자는 없습니다. 제목은 손글씨 느낌으로 굵기가 고르지 않거나 살짝 기울어 있고, 옆에 또렷한 작은 글자나 장난스러운 메모 몇 줄이 붙습니다.",
+    "traits": [
+      "둥근 형태",
+      "거칠게 끊긴 선",
+      "단색 평면 채색",
+      "밝은 색면",
+      "비대칭"
+    ],
+    "good": [
+      "물건 몇 개와 동작 하나가 있는 일상 장면: 피크닉, 풍선을 든 아이, 소파 위 강아지",
+      "형태가 알아보기 쉬운 음식과 소품: 과일 접시, 아이스크림, 빨간 우체통",
+      "그림책 한 페이지, 프로필 사진, 가벼운 SNS 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "부드럽고 채도 낮은 색, 모란디 톤, 조용한 문예풍 색감을 원하는 경우",
+      "빛과 질감으로 분위기가 만들어지는 사진: 야경, 역광, 안개",
+      "사실적인 디테일, 3D 질감, 복잡한 장면이 필요한 이미지"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الرسم الطفولي",
+    "tagline": "يحوّل الصورة إلى رسم تحريري كوري مسطّح مشرق بخطوط سوداء خشنة وألوان مصمتة.",
+    "look": "يبقى التوزيع العام للصورة وعلاقات الأشياء والحركة الأساسية، لكن يُحذف الضوء الواقعي والمنظور والملمس: يصير العنصر أشكالاً هندسية مستديرة بسيطة فيها مبالغة خفيفة، تحيط بألوانها المصمتة حدود سوداء مرسومة باليد خشنة مرتعشة ومنقطعة في مواضع. للصورة مركز واحد واضح، والأشياء الأخرى تسانده عبر فروق الحجم والإزاحة والتداخل والقصّ الخفيف والتماثل غير المكتمل، على مساحات كبيرة من لون مصمت مشرق وفراغ. تتحول أكثر ألوان الصورة حيوية إلى مجموعة محدودة من المساحات الفاتحة المشبعة، كالأزرق الساطع والأحمر والأصفر والأخضر والأبيض، بلا تدرجات ولا ظلال. العنوان مكتوب بخط يد متفاوت السمك أو مائل قليلاً، وبجانبه كلمات صغيرة واضحة أو ملاحظات مرحة قليلة.",
+    "traits": [
+      "أشكال مستديرة",
+      "خط خشن منقطع",
+      "ألوان مسطّحة مصمتة",
+      "حقول لونية مشرقة",
+      "عدم تماثل"
+    ],
+    "good": [
+      "مشاهد يومية فيها أشياء قليلة وحركة واحدة: نزهة، طفل يمسك بالوناً، كلب على أريكة",
+      "أطعمة وأشياء صغيرة سهلة الشكل: طبق فاكهة، مثلجات، صندوق بريد أحمر",
+      "صور تريدها صفحة من كتاب مصوّر أو صورة شخصية أو منشوراً خفيفاً"
+    ],
+    "poor": [
+      "طلب درجات ناعمة باهتة أو ألوان موراندي أو ألوان أدبية هادئة",
+      "صور يقوم جوّها على الضوء والملمس: مشاهد ليلية، إضاءة خلفية، ضباب",
+      "صور تحتاج إلى تفاصيل واقعية أو ملمس ثلاثي الأبعاد أو مشاهد معقدة"
+    ]
+  }
+}
